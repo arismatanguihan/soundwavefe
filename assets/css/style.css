@@ -7,7 +7,7 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: #2f303a;
+    background-color: #004aac;
     font-family: Poppins, sans-serif;
     font-size: 1.2rem;
     color: white;
@@ -65,7 +65,7 @@ body {
 
 .main-footer {
     height: 70px;
-    background-color: #202027;
+    background-color: #41414d;
     font-weight: bold;
 }
 
